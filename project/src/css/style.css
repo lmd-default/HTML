@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(255, 255, 224);
+    font-family: 'times new roman', palatino linotype, athena, tahoma;
+    font-size: 10pt;
+    color: rgb(0,0,0);
+    text-align: left;
+    margin-top: 8px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 3px;
+}
+.italic{
+    font-style: italic;
+    /* color: red; */
+}
+.high {
+    text-transform: uppercase;
+}
+h1 {
+    color: rgb(204, 0, 0);
+    text-align: center;
+    font-size: 12pt;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 12px;
+}
+/* nav {
+    position: relative;
+    top: 30px;
+    /* left: 300px; */
+} */
